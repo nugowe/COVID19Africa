@@ -22,7 +22,7 @@ library(icon)
 library(plotly)
 library(ggpubr)
 
-
+#Obtaining our Covid Values..
 Nigeria <- COVID19::covid19("Nigeria")
 Egypt <- COVID19::covid19("Egypt")
 SA <- COVID19::covid19("South Africa")
